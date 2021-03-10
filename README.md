@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snehal_s
+- 👋 Hi, I’m @Snehal_s
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on software development and related fields
