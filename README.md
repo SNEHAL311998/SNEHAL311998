@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snehal_s
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning computer science engineering
+- 🌱 I’m currently pursuing computer science engineering
 - 💞️ I’m looking to collaborate on software development and related fields
 - 📫 How to reach me linkedIn:https://www.linkedin.com/in/snehal-s-aa275818b
 
