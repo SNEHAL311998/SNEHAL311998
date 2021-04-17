@@ -1,3 +1,5 @@
+![](linkedinbanner.png)
+
 
 <h1 align="center">Hi 👋, I'm Snehal</h1>
 <h3 align="center">An Enthusiastic programmer who loves to learn new things</h3>
@@ -14,6 +16,8 @@
 - 🌱 I’m currently learning **React.js,Angular**
 
 - 📫 How to reach me **snehal.3as@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
