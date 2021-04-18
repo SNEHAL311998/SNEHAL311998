@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Levelup**
 
-- 🌱 I’m currently learning **React.js,Angular**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **snehal.3as@gmail.com**
 
