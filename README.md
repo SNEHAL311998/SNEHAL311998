@@ -24,7 +24,7 @@
 <a href="https://twitter.com/snehal_311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snehal_311" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/snehal-s-aa275818b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/snehal-s-aa275818b" height="30" width="40" /></a>
 <a href="https://fb.com/snehal.s.906" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/snehal.s.906" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/snehal_3as" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@snehal_3as" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@snehal_3as" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
