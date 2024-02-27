@@ -7,7 +7,7 @@
 <br/>
 
 - 👀 I’m interested in software development
-- 🌱 I’m currently pursuing computer science engineering
+- 🌱 Currently working as a Software Engineer
 - 💞️ I’m looking to collaborate on software development and related fields
 - 📫 How to reach me linkedIn: https://www.linkedin.com/in/snehal31
 - 📫 How to reach me **snehal.3as@gmail.com**
